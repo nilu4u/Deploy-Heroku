@@ -1,2 +1,2 @@
-# Deploy-Heroku
-Deploying Deep Learning model in Heroku
+# deploy-heroku
+Deploy an Image Classification Model on Heroku
